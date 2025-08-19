@@ -1,0 +1,43 @@
+Facebook Login  page,Facebook Sign up Page,X Join In Page,X Sign In Page,Udemy Search Page
+Valid Scenarios,Password Rules ,"Verify that the ""Sign up with Google"" button redirects the user to the Google sign-up page (accounts.google.com).",Valid Senarios,Category Search 
+Verify login with a valid phone number and a valid password,"Enter a cobination of at least six numbers,letters and punctuation marks (such as ! and &)","Verify that the ""Sign up with Apple"" button redirects the user to the Apple ID sign-up page.",Validate sign in with Gmail,Validate searching for a parent category [Deveopment-business-design]
+Veify login with a valid email address and a valid password,Valid Scenarios ,"Verify that the ""Create account"" button redirects the user to the ""Create your account"" page.",Validate sign in with Apple,Validate searching for a subcategory [Web Development-Data science- Software testing]
+"Verify login with different ways of writing phone number "" i.e.  0788879118 , +962788879118 , 0096278889118""",Validate sign up with valid phone number,"Verify that the ""Terms of Service"" link navigates to the correct Terms of Service page.",Validate sign in with Phone Number,Validate searching for popular topics inside Category [Selenium WebDriver -ISTQB FL-Playwright]
+verify login with an Arabic format mobile phone,Validate sign up with valid phone number,"Verify that the ""Privacy Policy"" link navigates to the correct Privacy Policy page.",Validate sign in with a user who has an Email that is not attached to a phone number,Validate searching for a parent category with a spelling mistake [Develobment-desin]
+Verify login with valid user without verifying email or phone number,Validate sign up with Arabic First and Last name,"Verify that the ""Cookie Use"" link navigates to the correct Cookie Use page.",Validate sign in with a user phone number that is not attached to a email,Validate searching for a Subcategory with a spelling mistake [software tsting - web develobment]
+Verify login with a valid password after using forgotten password functionality,Validate sign up with Russian First and Last name,"Verify that the ""Sign in"" button redirects the user to the sign-in page.",Validate sign in with a user phone number who has an Email attached to it,Validate searching for a popular topic with a spelling mistake [istqp-selenim]
+Check show password button,"Validate providing a short valid first name or last name ""E.g: ""YU - عز - مي""","Verify that the ""Get Grok"" button redirects the user to the Grok.com",Validate sign in with a user email who has a phone number attached to it,Validate searching for a category with a synonym [Development -> coding]
+Check copy/paste of password,"Validate providing a mobile number with and without country code  ""E.g: [ **0**788879118 , **+962**788879118 ] , [**00962**78889118]""",Verify that all buttons and links are enabled and clickable.,Validate using different valid formats for Phone Number,Validate searching for a Subcategory with a synonym [software testing -> testing -> quality assurance]
+Validate that after login user is redirected to Newsfeed page,Validate providing phone number in Arabic digits,Verify that the text/labels on all buttons and links are spelled correctly and match the design.,"Validate sign in with Username in Uppercase letters ""LARA""",Validate searching for a popular topic with a synonym [ Automation testing -> Test Automation]
+Verify login with a deactivated account,Validate sign up with valid age in the range of 13 and 18 years old,Verify that the hover effect (if applicable) is displayed correctly when the mouse pointer is over each button or link.,"Validate sign in with username in Lowercase letters ""lara""",Validate searching for categories in other languages
+Login with a suspended account,Validate sign up with valid age in the range of 18 and 120 years old,Verify that clicking any button or link loads the target page within an acceptable response time.,"Validate sign in with username in a mix of uppercase and lowercase letters ""Lara""",Validate searching for subcategories in other languages
+Invakid Scenraios ,Validate providing different values for gender,,Validate that providing valid data  redirected to password page,Validate searching for popular topics in other languages
+Login with leaving  phone number or email address field empty,"Validate providing a long valid first name or last name ""30 digits""",,validate show/hide password,For a logged in user search for a category with courses you are already enrolled in
+Login with leaving password field empty,Invalid Scenarios,,"Validate ""Forget password?"" button functionality to ensure redirected user to Forget password page",Course Search
+"Login with an invalid email ""Not Registered""",validate leaving first name field empty,,Invalid Scenarios,Validate searching for a course using its name exactly
+"Login with an invalid email address ""Wrong Format""",validate leaving last name field empty,,Sign in with a google account which is not signed up,Validate searching for a course using part of its name
+"Login with an invalid phone number "" Not Registered""",validate leaving email or phone number field empty,,Sign in with apple account which is not signed up,Validate searching for a course while making a spelling mistake in its name
+"Login with an invalid phone number ""Wrong Format""",validate leaving password field empty,,,Validate searching for a course using its description
+Login with an invalid password and valid email address,validate leaving gender field empty,,,Validate searching for a course using part of its description
+Login with an invalid password 3 times,verify providing number or special characters in first name,,,Validate searching for a course in another languages
+Login with an valid password after being blocked from accessing the app,verify providing numbers or special characters in last name,,,Validate searching for a lecture in a course
+Loing with providing an old password (for Facebook ),verify providing very short first name 'N,,,"Validate searching for a lecture name in a course in which more than one lecture has the same name ""test scenarios"" , and validate that the count is correct"
+Login with an old password after using forgotten password functionality,"verify providing very long short last name ""N",,,Validate searching for a lecture with different learning language preferences
+Login without internet connection,"verify providing very long first name  ""more than 50 characters",,,Instructor Search
+Compatibility Testing,"verify providing very long last name ""more than 50 charcters""",,,Validate searching for an instructor with his name correctly
+Test with Chrome,"verify providing a long mobile number ""more than 15 digits""",,,validate searching for an instructor with his part name
+Test with Safari,"verify providing a short mobile number ""1234""",,,Validate searching for an instructor while making a spelling mistake in his name
+Test with Edge,verify providing a space in the mobile number,,,Validate searching for an instructor with his name and his course
+Test with safari Firefox,verify Copy/Past mobile number from another website or application,,,Validate searching for an instructor in another language learning preferences
+Test using Chrome on iPhone,"verify adding an email with wrong format ""e.g.: abc2672267#""",,,
+Test using Chrom on Android,"verify adding an email with a mistake in the format ""Lara@gamil.com""",,,
+Test using any browser on a tablet,validate a password with less than 6 digits [e.g. A12#1],,,
+Redifection To Other Sections ,validate a password without letters [1234!@#],,,
+Validate redirection to forgotten password page,validate a password without numbers [abcd!@#],,,
+Validate redirection to Sign up page,Validate a password without special characters [122sdkkd],,,
+Validate redirection to create a page page,Validate providing a date of birth less than 13,,,
+,validate providing a date of birth more than 120,,,
+,Validate leaving gender field empty,,,
+,Validate leaving gender field empty,,,
+,Validate using already registered Email,,,
+,Validate using already registered Email,,,
